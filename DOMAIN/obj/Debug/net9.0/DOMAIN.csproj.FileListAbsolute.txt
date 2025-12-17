@@ -1,0 +1,11 @@
+C:\SistemaSuporteTI\DOMAIN\bin\Debug\net9.0\DOMAIN.deps.json
+C:\SistemaSuporteTI\DOMAIN\bin\Debug\net9.0\DOMAIN.dll
+C:\SistemaSuporteTI\DOMAIN\bin\Debug\net9.0\DOMAIN.pdb
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.AssemblyInfoInputs.cache
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.AssemblyInfo.cs
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.csproj.CoreCompileInputs.cache
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.dll
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\refint\DOMAIN.dll
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.pdb
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\ref\DOMAIN.dll
