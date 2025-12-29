@@ -9,3 +9,4 @@ C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.dll
 C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\refint\DOMAIN.dll
 C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.pdb
 C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\ref\DOMAIN.dll
+C:\SistemaSuporteTI\DOMAIN\obj\Debug\net9.0\DOMAIN.sourcelink.json

@@ -13,3 +13,4 @@ C:\SistemaSuporteTI\APPLICATION\obj\Debug\net9.0\APPLICATION.dll
 C:\SistemaSuporteTI\APPLICATION\obj\Debug\net9.0\refint\APPLICATION.dll
 C:\SistemaSuporteTI\APPLICATION\obj\Debug\net9.0\APPLICATION.pdb
 C:\SistemaSuporteTI\APPLICATION\obj\Debug\net9.0\ref\APPLICATION.dll
+C:\SistemaSuporteTI\APPLICATION\obj\Debug\net9.0\APPLICATION.sourcelink.json

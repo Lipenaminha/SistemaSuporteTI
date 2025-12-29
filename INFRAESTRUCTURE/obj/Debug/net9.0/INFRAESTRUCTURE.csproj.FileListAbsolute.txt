@@ -17,3 +17,4 @@ C:\SistemaSuporteTI\INFRAESTRUCTURE\obj\Debug\net9.0\refint\INFRAESTRUCTURE.dll
 C:\SistemaSuporteTI\INFRAESTRUCTURE\obj\Debug\net9.0\INFRAESTRUCTURE.pdb
 C:\SistemaSuporteTI\INFRAESTRUCTURE\obj\Debug\net9.0\INFRAESTRUCTURE.genruntimeconfig.cache
 C:\SistemaSuporteTI\INFRAESTRUCTURE\obj\Debug\net9.0\ref\INFRAESTRUCTURE.dll
+C:\SistemaSuporteTI\INFRAESTRUCTURE\obj\Debug\net9.0\INFRAESTRUCTURE.sourcelink.json
